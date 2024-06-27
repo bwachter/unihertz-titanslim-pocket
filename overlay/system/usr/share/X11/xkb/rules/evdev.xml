@@ -6284,7 +6284,7 @@
        </variant>
       </variantList>
     </layout>
-    <layout> 
+    <layout>
       <configItem>
         <name>jv</name>
         <shortDescription>jv</shortDescription>
@@ -6348,6 +6348,18 @@
         <name>unihertz_vndr/titanpocket</name>
         <shortDescription>en</shortDescription>
         <description>English (Unihertz Titan Pocket)</description>
+        <languageList>
+          <iso639Id>eng</iso639Id>
+        </languageList>
+      </configItem>
+      <variantList>
+      </variantList>
+    </layout>
+    <layout>
+      <configItem>
+        <name>unihertz_vndr/titanslim</name>
+        <shortDescription>en</shortDescription>
+        <description>English (Unihertz Titan Slim)</description>
         <languageList>
           <iso639Id>eng</iso639Id>
         </languageList>
